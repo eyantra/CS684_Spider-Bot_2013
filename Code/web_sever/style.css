@@ -1,0 +1,153 @@
+body {
+background:url(naturewallpapers252872529.jpg);
+
+
+
+}
+#wrapper{
+width:1180px;
+background:rgba(0,153,0,0.5);
+
+margin:25px 30px auto;
+-webkit-border-bottom-left-radius:15px;
+-webkit-border-bottom-right-radius:15px;
+-webkit-border-top-right-radius:15px;
+height:650px;
+
+
+}
+#navbar{
+	width:660px;
+	
+
+}
+#navbar #holder {
+height:10px;
+border-bottom:1px solid #0000;
+width:630px;
+padding-left:30px;
+ }
+#navbar #holder ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+	
+
+
+}
+
+#navbar #holder ul li a{
+text-decoration:none;
+float:left;
+margin-right:5px;
+font-family:"Arial Black";
+color:#000;
+border:1px solid #000;
+border-bottom:none;
+padding:5px;
+width:120px;
+text-align:center;
+display:block;
+background:#69F;
+-webkit-border-top-left-radius:15px;
+-webkit-border-top-right-radius:15px;
+
+}
+
+#navbar #holder ul li  a:hover {
+background: #F90;
+color:#FFF;
+ 
+
+
+}
+
+#holder ul li a#onlink{
+background:#FFF;
+color:#000;
+border-bottom:1px solid #FFF;
+
+}
+#hover ul li a#onlink:hover{
+background:#FFF;
+color:#449;
+text-shadow:1px 1px 1px #000;
+}
+
+#camera{
+postion:absolute;
+top:10px;
+left:50px;
+}
+#surfacePlotDiv{
+width:500px;
+height:500px
+postion:absolute;
+top:10px;
+left:50px;
+}
+
+canvas {
+ background:url(green_house2.jpg) ;
+ }
+ #map{
+ position:absolute;
+ top:100px;
+ left:800px;
+ }
+ #map2{
+ position:absolute;
+ top:100px;
+ left:800px;
+ }
+#controls {
+background-color:#777;
+width:200px;
+height:200px;
+
+margin:0 auto;
+position:absolute;
+top:350px;
+left:850px;
+-webkit-border-top-left-radius:15px;
+-webkit-border-top-right-radius:15px;
+-webkit-border-bottom-left-radius:15px;
+-webkit-border-bottom-right-radius:15px;
+
+
+}
+
+#forward{
+position:absolute;
+top:-20px;
+left:50px;
+
+
+}
+
+#backward{
+position:absolute;
+top:120px;
+left:50px;
+
+
+}
+
+#left{
+position:absolute;
+top:50px;
+left:-25px;
+}
+#right{
+position:absolute;
+top:50px;
+left:120px;
+}
+
+#stop{
+position:absolute;
+top:50px;
+left:50px;
+}
+
+
